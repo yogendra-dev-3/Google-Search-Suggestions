@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.suggestion {
+  color: #64748b;
+  font-size: 16px;
+}
+
+.arrow {
+  height: 20px;
+  margin-top: 20px;
+}
